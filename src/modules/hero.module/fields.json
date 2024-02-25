@@ -1,0 +1,11 @@
+[
+  {
+    "default": "<h1>Hello, world!</h1>",
+    "label": "Headline",
+    "locked": false,
+    "name": "text",
+    "required": false,
+    "type": "text",
+    "validation_regex": ""
+  }
+]
